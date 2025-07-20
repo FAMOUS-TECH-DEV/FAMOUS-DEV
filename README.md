@@ -1,4 +1,43 @@
-# FAMOUS-DEV
-Config files for my GitHub profile.
-# FAMOUS-DEV
-Hey Fam 😀 👋 
+<h1 align="center">Hi 👋, I'm ⦿ FΛMØUS † DEV★</h1>
+<h3 align="center">👋 Hey there! I'm ⦿ FΛMØUS † DEV★, a passionate Front-End Web Developer and creative tech builder focused on powerful WhatsApp bots, bug-testing tools, and ethical hacking utilities. I specialize in building clean, responsive, and modern websites using HTML, CSS, JavaScript, Tailwind CSS, and React — blending great UI/UX design with real functionality. On the automation side, I create smart WhatsApp bots for auto-replies, media tools, group control, and more — along with bug bots that help test and expose flaws in WhatsApp (strictly for educational and security purposes). I also dive into ethical hacking, crafting tools for network testing, password strength checking, and cybersecurity education. None of my work promotes illegal activity — I believe in using tech for good, teaching people how to stay safe online, and pushing the limits of innovation responsibly. If you're into clean web design, smart bots, or ethical hacking, feel free to explore my projects, follow me, or collaborate. Open-source is power. Let’s build something epic. 💻🔥</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=famous-tech-dev&label=Profile%20views&color=0e75b6&style=flat" alt="famous-tech-dev" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=famous-tech-dev" alt="famous-tech-dev" /></a> </p>
+
+- 🔭 I’m currently working on [FAMØUS-XMD WHATSAPP BOT](FAMØUS CRASHER V3)
+
+- 🌱 I’m currently learning **DARK WEB HACKING**
+
+- 👯 I’m looking to collaborate on [FAMØUS-XMD WHATSAPP BOT](www.t.me/FamousDev)
+
+- 🤝 I’m looking for help with [FAMØUS CRASHER V3](www.t.me/FamousDev)
+
+- 👨‍💻 All of my projects are available at [https://github.com/FAMOUS-TECH-DEV](https://github.com/FAMOUS-TECH-DEV)
+
+- 📝 I regularly write articles on [https://whatsapp.com/channel/0029VbARpf5IXnlxnb2ZVw23](https://whatsapp.com/channel/0029VbARpf5IXnlxnb2ZVw23)
+
+- 💬 Ask me about **Curious about my work? Ask me about building responsive websites with HTML, CSS, JS, and React, creating powerful WhatsApp bots and bug tools, or how I use ethical hacking for cybersecurity education. I’m always open to sharing knowledge, tools, and ideas — if you’re into bots, web dev, or hacking smart, just hit me up**
+
+- 📫 How to reach me **fteeneditz@gmail.com or www.t.me/FamousDev**
+
+- 📄 Know about my experiences [https://whatsapp.com/channel/0029VbARpf5IXnlxnb2ZVw23](https://whatsapp.com/channel/0029VbARpf5IXnlxnb2ZVw23)
+
+- ⚡ Fun fact **I Don't Get Bitches**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/famous-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="famous-tech" height="30" width="40" /></a>
+<a href="https://instagram.com/famøustech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="famøustech1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/famous-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="famous-tech" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=famous-tech-dev&show_icons=true&locale=en&layout=compact" alt="famous-tech-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=famous-tech-dev&show_icons=true&locale=en" alt="famous-tech-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=famous-tech-dev&" alt="famous-tech-dev" /></p>
+
