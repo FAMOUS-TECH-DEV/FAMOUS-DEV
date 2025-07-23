@@ -39,17 +39,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=famous-tech-dev&show_icons=true&locale=en" alt="famous-tech-dev" /></p>
 
-  <meta charset="UTF-8">
-  <title>👑 ƑΛMØUS DEV 👑</title>
-  <style>
-    body {
-      background-color: black;
-      margin: 0;
-      overflow: hidden;
-      font-family: 'Courier New', monospace;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-
