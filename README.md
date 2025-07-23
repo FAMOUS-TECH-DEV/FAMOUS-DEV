@@ -41,3 +41,43 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=famous-tech-dev&" alt="famous-tech-dev" /></p>
 
+<!-- Save this as banner.html and use it in GitHub Pages -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>👑 ƑΛMØUS DEV 👑</title>
+  <style>
+    body {
+      background-color: black;
+      margin: 0;
+      overflow: hidden;
+      font-family: 'Courier New', monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    h1 {
+      color: #0ff;
+      font-size: 3rem;
+      animation: glitch 2s infinite;
+      text-shadow: 0 0 5px #0ff, 0 0 10px #00f;
+    }
+
+    @keyframes glitch {
+      0% { transform: translate(0); }
+      20% { transform: translate(-1px, 1px); }
+      40% { transform: translate(1px, -2px); }
+      60% { transform: translate(-3px, 1px); }
+      80% { transform: translate(2px, 2px); }
+      100% { transform: translate(0); }
+    }
+  </style>
+</head>
+<body>
+  <h1>👑 ƑΛMØUS DEV 👑</h1>
+</body>
+</html>
+
