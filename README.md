@@ -53,25 +53,3 @@
       height: 100vh;
     }
 
-    h1 {
-      color: #0ff;
-      font-size: 3rem;
-      animation: glitch 2s infinite;
-      text-shadow: 0 0 5px #0ff, 0 0 10px #00f;
-    }
-
-    @keyframes glitch {
-      0% { transform: translate(0); }
-      20% { transform: translate(-1px, 1px); }
-      40% { transform: translate(1px, -2px); }
-      60% { transform: translate(-3px, 1px); }
-      80% { transform: translate(2px, 2px); }
-      100% { transform: translate(0); }
-    }
-  </style>
-</head>
-<body>
-  <h1>👑 ƑΛMØUS DEV 👑</h1>
-</body>
-</h
-
