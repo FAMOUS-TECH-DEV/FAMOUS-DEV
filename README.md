@@ -39,12 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=famous-tech-dev&show_icons=true&locale=en" alt="famous-tech-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=famous-tech-dev&" alt="famous-tech-dev" /></p>
-
-<!-- Save this as banner.html and use it in GitHub Pages -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
   <meta charset="UTF-8">
   <title>👑 ƑΛMØUS DEV 👑</title>
   <style>
@@ -79,5 +73,5 @@
 <body>
   <h1>👑 ƑΛMØUS DEV 👑</h1>
 </body>
-</html>
+</h
 
